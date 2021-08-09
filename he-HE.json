@@ -1,0 +1,16 @@
+{
+    "claims.bag.start": "אוי לא אני אעזור לך, האם אתה עדיין בשדה התעופה ?",
+    "claims.yes": "כן",
+    "claims.no": "לא",
+    "claims.bag.counter": "מעולה, עכשיו גש לדלפק חברת התעופה שלך - בקש טופס אישור כבודה עבודה וצלם אותו.",
+    "claims.bag.referance.check": "נראה שמספר הפניה שלך הוא TLVBA47283. חכה בבקשה בזמן אימות הנתונים.",
+    "claims.send.to.card": "העבר לכרטיס",
+    "claims.send.to.bank": "העבר לבנק",
+    "claims.money.transfer.bank": "הכסף הועבר לבנק",
+    "claims.money.transfer.card": "הכסף הועבר לכרטיס",
+    "claims.bag.title": "כבודה אבודה",
+    "claims.bag.looking-for-matches": "",
+    "claims.bag.no-file": "",
+    "claims.bag.flight-reference": "אתה ב {airport} שטסת {airline} עם הפניה {reference}",
+    "claims.bag.this-is-object": "זה מביך, נראה שצילמת תמונה של {objects} האם תוכל לנסות לצלם תמונה נוספת של טופס תביעת התיק האבוד?"
+}

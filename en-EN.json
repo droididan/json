@@ -1,0 +1,16 @@
+{
+    "claims.bag.start": "Oh no I'll get you sorted away. Are you still in the baggage area?",
+    "claims.yes": "Yes",
+    "claims.no": "No",
+    "claims.bag.counter": "Great. Now look for Delta's lost baggage counter - ask for the lost bags recipe, and take a photo of it",
+    "claims.bag.referance.check": "It looks like your claim reference is TLVBA47283. Please give me a moment to confirm this with your airline.",
+    "claims.send.to.card": "Send to Zenner Card",
+    "claims.send.to.bank": "Send to Bank",
+    "claims.money.transfer.bank": "The money was transferred to the bank",
+    "claims.money.transfer.card": "The money was transferred to Zenner Card",
+    "claims.bag.title": "Lost Bags",
+    "claims.bag.looking-for-matches": "Thanks!  I’m looking into your file number {matches} and will get back to you shortly.",
+    "claims.bag.no-file": "I wasn’t able to read your file number.\nOur wonderful customer care team will check on this shortly and get back to you.",
+    "claims.bag.flight-reference": "You're at {airport} having flown {airline} with reference {reference}",
+    "claims.bag.this-is-object": "This is embarrassing, looks like you've taken a photo of a {objects}, can you try to take another photo of the lost bag claim form?"
+}
